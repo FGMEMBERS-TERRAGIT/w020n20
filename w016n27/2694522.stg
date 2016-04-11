@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Airport/ils.xml -15.389797 27.921853 22.83 338.19
+OBJECT_SHARED Models/Airport/ils.xml -15.380797 27.942264 15.22 158.2
+OBJECT_SHARED Models/Airport/tacan.xml -15.3895 27.923417 22.97 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -15.389892 27.921897 23.05 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -15.380797 27.942264 15.22 180
+OBJECT_SHARED Models/Airport/localizer.xml -15.393197 27.916925 28.04 207
+OBJECT_SHARED Models/Airport/localizer.xml -15.379956 27.946892 11.4 27
