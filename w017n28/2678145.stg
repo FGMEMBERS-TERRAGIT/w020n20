@@ -10,3 +10,4 @@ OBJECT_SHARED Models/Airport/localizer.xml -16.555394 28.050422 54.92 158.49
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -16.6144434 28.0201409 0 304.82
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -16.6614585 28.006985 0 308.82
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -16.6143907 28.0189835 -0.02 339.2
+OBJECT_SHARED Models/Airport/Terminal-ru1.ac -16.575987 28.048576 66.74 260

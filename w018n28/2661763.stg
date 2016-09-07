@@ -26,3 +26,7 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -17.1118262 28.084252
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -17.1111423 28.0868895 0 173.66
 OBJECT_SHARED Models/Airport/kakrterminal.ac -17.21207845 28.03148518 215.49 98
 OBJECT_SHARED Models/Airport/Vehicle/EDDI-FollowMe.ac -17.21247808 28.03139112 215.63 0
+OBJECT_SHARED Models/Residential/canary_house1.ac -17.1978649 28.0288163 8.5 0
+OBJECT_SHARED Models/Residential/canary_house2.ac -17.1995405 28.0259355 48.88 108
+OBJECT_SHARED Models/Residential/canary_house3.ac -17.198288 28.0271828 0.74 240
+OBJECT_STATIC gomera_tower.ac -17.1104073 28.0901867 4.18 40.1
