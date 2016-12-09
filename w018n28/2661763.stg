@@ -19,6 +19,7 @@ OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -17.108259 28.0882661 0 
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -17.1082246 28.0877755 0 337.32
 OBJECT_SHARED Models/Airport/Vehicle/Rosenbauer_FLF_Panther8x8SWB.ac -17.21265422 28.0314082 215.78 192
 OBJECT_SHARED Models/Airport/Vehicle/RTW_Sprinter_515.xml -17.21256495 28.03139655 215.7 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -17.1001 28.0960667 48.2 0
 OBJECT_SHARED Models/Airport/weather-station.ac -17.20814097 28.03140284 211.23 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -17.1123586 28.0828545 0 23.98
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -17.1118869 28.085918 0 46.09

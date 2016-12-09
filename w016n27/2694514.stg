@@ -105,6 +105,7 @@ OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat.ac -15.3853211 27.80226
 OBJECT_SHARED Models/Maritime/Civilian/black-sailing-boat.ac -15.496754 27.7859037 -0.08 297.2
 OBJECT_SHARED Models/Industrial/Schenker_storehouse35x30.xml -15.4375999 27.8023475 4.57 116.2
 OBJECT_SHARED Models/Power/transformer.ac -15.438459 27.8044858 10.78 28.2
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -15.3846333 27.86405 20.98 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.xml -15.4368516 27.8051132 12.29 104.2
 OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.xml -15.4364319 27.8050764 12.57 104.2
 OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.xml -15.4360333 27.8054501 11.68 104.2

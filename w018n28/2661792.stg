@@ -1020,6 +1020,8 @@ OBJECT_SHARED Models/StreetFurniture/cone.ac -17.7538978 28.6215574 28.27 273.8
 OBJECT_SHARED Models/StreetFurniture/cone.ac -17.7538373 28.6218031 28.2 273.8
 OBJECT_SHARED Models/StreetFurniture/cone.ac -17.7538166 28.6215401 28.13 273.8
 OBJECT_SHARED Models/StreetFurniture/cone.ac -17.7537809 28.6217992 28.11 273.8
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -17.9256667 28.5966667 -2.4 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -17.7604667 28.5699167 -2.4 0
 OBJECT_SHARED Models/Airport/Vehicle/FireTruck_7.30m.ac -17.7572477 28.6190739 50.7 97.8
 OBJECT_SHARED Models/Airport/Vehicle/FireTruck_7.30m.ac -17.7572315 28.6188721 49.33 97.8
 OBJECT_SHARED Models/Airport/Vehicle/EDDI-FollowMe.ac -17.7538328 28.6200552 27.74 273.8

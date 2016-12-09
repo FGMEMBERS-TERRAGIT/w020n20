@@ -142,6 +142,10 @@ OBJECT_SHARED Models/Airport/Vehicle/RTW_Sprinter_515_BL.xml -15.388165 27.93750
 OBJECT_SHARED Models/Industrial/logistic.ac -15.3927361 27.9302808 33.16 248
 OBJECT_SHARED Models/Aircraft/Cessna172_blue.xml -15.3952612 27.9244318 34.93 72
 OBJECT_SHARED Models/Aircraft/DR400-yellow.xml -15.3951938 27.9245622 34.87 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -15.3826833 27.97025 -2.4 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -15.377 27.97685 -1.59 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -15.3769 27.9752 -2.4 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -15.36795 27.99175 -1.11 0
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -15.3953076 27.9243159 34.97 72
 OBJECT_SHARED Models/Airport/Vehicle/EDDI-FollowMe.ac -15.3883336 27.9369237 27.43 288
 OBJECT_SHARED Models/Airport/Vehicle/EDDI-FollowMe.ac -15.3874423 27.9392053 26.09 164
