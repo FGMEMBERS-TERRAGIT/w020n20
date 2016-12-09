@@ -30,3 +30,10 @@ OBJECT_SHARED Models/Residential/canary_house1.ac -17.1978649 28.0288163 8.5 0
 OBJECT_SHARED Models/Residential/canary_house2.ac -17.1995405 28.0259355 48.88 108
 OBJECT_SHARED Models/Residential/canary_house3.ac -17.198288 28.0271828 0.74 240
 OBJECT_STATIC gomera_tower.ac -17.1104073 28.0901867 4.18 40.1
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/helipad40m.ac -17.10236 28.09721 87.68 16.33
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -17.10265 28.09732 92.30 198.77
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -17.10267 28.09726 92.30 290.05
+# END dsf2stg
