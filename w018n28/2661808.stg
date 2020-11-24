@@ -1,1 +1,6 @@
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -17.7780667 28.8391 -2.29 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -17.99529 28.77877 0.00 353.79
+# END dsf2stg

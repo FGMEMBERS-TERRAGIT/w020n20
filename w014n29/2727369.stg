@@ -1,3 +1,10 @@
 OBJECT_SHARED Models/Communications/vordme_1.xml -13.510725 29.166003 534.65 180
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -13.5023793 29.2273701 0 353.99
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -13.5015452 29.2267869 0 74.25
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -13.51015 29.22937 0.00 165
+OBJECT_SHARED Models/lib/lamp10m.xml -13.51024 29.22939 25.38 165
+OBJECT_SHARED Models/lib/office6x12.ac -13.51015 29.22944 25.38 253.52
+# END dsf2stg

@@ -2,6 +2,6 @@ OBJECT_SHARED Models/Communications/vordme_1.xml -17.034972 20.914444 -2.33 180
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -17.03427 20.92893 3.91 256.41
-OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac -17.03343 20.92861 2.96 316.18
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -17.03427 20.92893 0.00 256.41
+OBJECT_SHARED Models/Aircraft/fokker50_vlm.ac -17.03343 20.92861 4.02 316.18
 # END dsf2stg
